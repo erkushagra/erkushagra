@@ -1,17 +1,21 @@
-### Hi there 👋
+### Hola gente hermosa👋🤗🙂
+
 ![](https://komarev.com/ghpvc/?username=erkushagra&color=yellow&style=flat-square&label=Profile+Views)
 
 <!--
 **erkushagra/erkushagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
+
+
+* 🔭 I’m currently working on Data and Networking with great peeps(Entrepreneur)   
+* 🌱 I’m currently playing with Web Scraping and Analysing Data 
+* 💬 Talk me about philosophy👀
+* 👀 "I am not talented, but I am obsessed"
+* 📫 Find me on : 
+
+[![Linkedin](https://github.com/erkushagra/erkushagra/blob/main/icons8-linkedin-48.png)](https://www.linkedin.com/in/harshit-yadav-757719171/)
+&nbsp;
+[![Twitter](https://github.com/erkushagra/erkushagra/blob/main/icons8-twitter-48.png)](https://twitter.com/er_kushagra_)
+
