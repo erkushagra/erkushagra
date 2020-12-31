@@ -9,7 +9,7 @@
 
 
 
-* 🔭 I’m currently working on Data and Networking with great peeps(Entrepreneur)   
+* 🔭 I’m currently working on Data and Networking with great peeps.   
 * 🌱 I’m currently playing with Python, Scraping, Analysing tools and with databases...  
 * 💬 Talk me about philosophy 👀
 * My '2020' favourite quote - "A fit body, a calm mind and a house full of love." 
