@@ -17,5 +17,5 @@
 
 [![Linkedin](https://github.com/erkushagra/erkushagra/blob/main/icons8-linkedin-48.png)](https://www.linkedin.com/in/harshit-yadav-757719171/)
 &nbsp;
-[![Twitter](https://github.com/erkushagra/erkushagra/blob/main/icons8-twitter-48.png)](https://twitter.com/er_kushagra_)
+[![Twitter](https://github.com/erkushagra/erkushagra/blob/main/icons8-twitter-48.png)](https://twitter.com/erkushagra_)
 
