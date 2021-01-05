@@ -16,6 +16,13 @@
 * My '2020' favourite quote - "A fit body, a calm mind and a house full of love." 
 * About me 👀: "I am not talented, but I am obsessed"
 
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erkushagra)](https://github.com/aerkushagra/github-readme-stats)
+![erkushagra github stats](https://github-readme-stats.vercel.app/api?username=erkushagra)
+-->
+
+
 * 📫 Find me on : 
 
 [![Linkedin](https://github.com/erkushagra/erkushagra/blob/main/icons8-linkedin-48.png)](https://www.linkedin.com/in/harshit-yadav-757719171/)
