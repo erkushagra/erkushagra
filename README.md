@@ -27,5 +27,5 @@
 
 [![Linkedin](https://github.com/erkushagra/erkushagra/blob/main/icons8-linkedin-48.png)](https://www.linkedin.com/in/yd09/)
 &nbsp;
-[![Twitter](https://github.com/erkushagra/erkushagra/blob/main/icons8-twitter-48.png)](https://twitter.com/erkushagra_)
+[![Twitter](https://github.com/erkushagra/erkushagra/blob/main/icons8-twitter-48.png)](https://twitter.com/kussshagra)
 
